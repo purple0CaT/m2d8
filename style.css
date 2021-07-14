@@ -23,5 +23,21 @@
         border: 2px solid black;
         border-left: 0px;
         color: white;
+        overflow: hidden;
+
+}
+
+.left-foot{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.left-foot a {
+    text-decoration: none;
+    color: gray;
+    margin: 0;
+    padding: 1px 5px;
+}
+.left-foot a:first-child {
+    border-right: 1px solid gray;
 
 }
