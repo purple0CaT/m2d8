@@ -1,0 +1,27 @@
+.first-col, .second-col{
+    height: 400px;
+}
+
+.first-col{
+    background-color: #6AB56A;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border: 2px solid black;
+}
+
+.first-col p{
+    position: relative;
+    margin: auto;
+    color: white;
+}
+
+.second-col{
+
+        background-color: #289BFF;
+        border-bottom-right-radius: 50px;
+        border-top-right-radius: 50px;
+        border: 2px solid black;
+        border-left: 0px;
+        color: white;
+
+}
